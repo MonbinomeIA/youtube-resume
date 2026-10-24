@@ -1,6 +1,6 @@
 ---
 name: youtube-resume
-description: Extrait les sous-titres d'une vidéo YouTube (yt-dlp) et en tire une note structurée et exhaustive (concepts, outils, workflows, citations) sauvegardée dans ~/.claude/youtube-resume/. Use quand l'utilisateur colle une URL YouTube et demande de la résumer, de la retenir ou d'en prendre des notes, ou dit "/youtube-resume", ou pose une question sur une vidéo déjà résumée. Ne fait pas de veille : une vidéo à la fois.
+description: Extrait les sous-titres d'une vidéo YouTube (yt-dlp) et en tire une note structurée et exhaustive (concepts, outils, workflows, citations) sauvegardée dans ~/.claude/youtube-resume/. Use quand l'utilisateur colle une URL YouTube et demande de la résumer, de la retenir ou d'en prendre des notes, ou dit "/youtube-resume", ou pose une question sur une vidéo déjà résumée. Une vidéo à la fois, pas de veille.
 argument-hint: <youtube-url>
 ---
 
